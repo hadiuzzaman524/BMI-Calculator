@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI Calculator
 
 This is flutter application, using this application u can calculate your BMI
 
