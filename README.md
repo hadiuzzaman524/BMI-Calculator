@@ -2,4 +2,5 @@
 
 A new Flutter application.
 
-![alt text](https://github.com/hadiuzzaman524/BMI-Calculator/blob/main/Screenshot_1603728364.png)
+![first_screen](https://github.com/hadiuzzaman524/BMI-Calculator/blob/main/Screenshot_1603861699.png)
+![second_screen](https://github.com/hadiuzzaman524/BMI-Calculator/blob/main/Screenshot_1603861708.png)
