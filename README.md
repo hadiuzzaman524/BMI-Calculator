@@ -1,6 +1,7 @@
 ## BMI Calculator
 
-This is flutter application, using this application u can calculate your BMI
+
+This is a Flutter application that works on both Android and IOS. Using this application you can predict your BMI and also gives you a suggestion for your good health.
 
 # Screenshot 1: 
 ![first_screen](https://github.com/hadiuzzaman524/BMI-Calculator/blob/main/Screenshot_1603861699.png)
